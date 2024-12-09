@@ -1,0 +1,21 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "HashMAp",
+        "Hash Set",
+        ".vscode/stack",
+        ".vscode/greedyalgorithm",
+        ".vscode/fileinput/output",
+        ".vscode/fileinput",
+        ".vscode/dynamicprogramming",
+        ".vscode/Sorting",
+        ".vscode/Search",
+        ".vscode/Recursion program",
+        ".vscode/Queue",
+        ".vscode/LinkedList",
+        ".vscode/HEAP",
+        ".vscode/BinaryTree",
+        ".vscode/Array",
+        ".vscode/Development"
+    ]
+}
