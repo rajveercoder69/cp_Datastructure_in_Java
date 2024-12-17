@@ -34,7 +34,7 @@ public class FirstAndLastOccurence {
            // System.out.println(val);
             alphabet[integerValueChar][0]=start;
             alphabet[integerValueChar][2]++;
-            //System.out.println("FirstIndex"+"\t"+alphabet[val][0]+"of char"+st);
+            System.out.println("FirstIndex"+"\t"+alphabet[integerValueChar][0]+"of char"+str);
         }
         alphabet[integerValueChar][1]=start;
         alphabet[integerValueChar][2]++;
